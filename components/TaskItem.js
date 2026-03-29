@@ -23,7 +23,7 @@ export default function TaskItem({ task, fetchTasks }) {
   };
 
   return (
-    <li className="flex justify-between items-center mb-2 p-2 rounded hover:bg-gray-100 transition">
+    <li className="flex justify-between items-center mb-2 p-2 rounded hover:bg-gray-100 dark:hover:bg-gray-900 transition">
       <span
         onClick={toggleTask}
         className={`cursor-pointer ${
