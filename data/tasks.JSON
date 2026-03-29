@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1774755282197,
+    "text": "Membaca",
+    "completed": false
+  },
+  {
+    "id": 1774755300802,
+    "text": "Buat Portofolio",
+    "completed": true
+  },
+  {
+    "id": 1774755319130,
+    "text": "Olahraga",
+    "completed": true
+  },
+  {
+    "id": 1774755346311,
+    "text": "Perbaiki CV",
+    "completed": true
+  },
+  {
+    "id": 1774755594697,
+    "text": "Latihan Gitar",
+    "completed": false
+  }
+]
