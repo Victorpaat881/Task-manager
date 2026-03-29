@@ -26,7 +26,10 @@ export default function TaskForm({ fetchTasks }) {
         placeholder="Tambah task..."
       />
 
-      <button onClick={addTask} className="bg-blue-500 text-white px-3 rounded">
+      <button
+        onClick={addTask}
+        className="bg-blue-500 hover:bg-blue-600 transition text-white px-3 rounded"
+      >
         Add
       </button>
     </div>
